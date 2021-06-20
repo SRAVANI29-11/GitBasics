@@ -2,5 +2,5 @@
 int main()
 {
      printf("Welcome to c programming");
-}
 return 0;
+}
